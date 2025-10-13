@@ -1,0 +1,131 @@
+/* .search-wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* Ensure the form doesn't shrink too small */
+/* .search-wrapper form {
+  width: 100%;
+
+} */
+
+/* Center the search form at large screens (992px to 1199px) */
+/* @media (min-width: 992px) and (max-width: 1199.98px) {
+  .search-wrapper {
+    justify-content: center;
+  }
+  .search-wrapper form{
+    margin-left: 10%;
+  }
+} */
+ /* Default styles */
+.nav_items {
+  width: auto;
+  margin-left: 0;
+  margin-right: 0;
+} 
+
+@media (max-width: 780px) {
+  .card-container {
+    justify-content: center;
+  }
+
+  .trending-section h2 {
+    text-align: center;
+  }
+}
+
+@media(max-width:778px){
+    .nav_logo{
+        font-size: 20px;
+    }
+    .home_img{
+        margin-top: 40px;
+    }
+}
+
+
+@media (max-width: 700px) {
+    nav{
+        width: 100%;
+    }
+  .logo_sec {
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+  }
+  .nav_items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  nav for input{
+    margin-left: 10%;
+  }
+}
+
+
+
+
+
+@media (max-width: 440px) {
+
+.text-section h1{
+  font-size: larger;
+}
+.text-section p{
+
+font-size: 15px;}
+
+}
+
+@media(max-width:489px){
+  .nav-link-responsive{
+    font-size: 17px;
+  }
+}
+@media(max-width:400px)
+{
+  .nav-link-responsive{
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 340px) {
+ .nav-link-responsive{
+  font-size: 13px;
+ }
+ .nav_logo{
+  font-size: 15px;
+ }
+ .nav_items{
+  margin-left: 8%;
+ }
+ .searchbar{
+   margin-left: 8%;
+ }
+ .searchbar form input{
+  height: 22px;
+ }
+ .searchbar form button{
+  height: 22px;
+  font-size: 12px;
+  margin-top: 0px;
+ }
+}
+@media (max-width: 273px) {
+ .nav-link-responsive{
+  font-size: 10px;
+ }
+  .nav_logo{
+  font-size: 13px;
+ }
+}
+
+
+
+
+
