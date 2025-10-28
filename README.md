@@ -22,13 +22,22 @@ Add, edit, or delete recipes through the backend system
 
 
 **Popular Catagories**
+Here you can explore different food categories through a horizontal scroll bar.
+Users can scroll to view various recipe types — for example, Breakfast, Lunch, Snacks, Desserts, and more.
+When a user selects a category, recipes related to that category are displayed dynamically below.
 
 
 ![Popular Categories](https://github.com/MahparaEhsan37/Recipe-Sharing-Webiste/blob/07ccfbfeb3f3d1ba96ec8f4baf0f51df0c42f1b3/recipeSharing2.jpeg)
 
 **Detailed Recipie Page**
+On the Detail Recipe page, users can view complete recipe information, including ingredients, step-by-step preparation methods, and cooking instructions or if user likes the recipe user cna shared the recipe with family and friends.
 
-![About Recipe Website](images/about.png)
+![Popular Categories](https://github.com/MahparaEhsan37/Recipe-Sharing-Webiste/blob/288ae7a8caa3975992d5b61387cc46e901e32690/detailRecipe.jpeg)
+
+**About Recipe Website**
+
+
+![About Recipe Website](https://github.com/MahparaEhsan37/Recipe-Sharing-Webiste/blob/288ae7a8caa3975992d5b61387cc46e901e32690/recipeSharing3.jpeg)
 ![Detail Recipe](images/detail.png)
 ![Food Website](images/food.png)
 
