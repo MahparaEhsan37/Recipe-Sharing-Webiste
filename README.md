@@ -21,8 +21,13 @@ Add, edit, or delete recipes through the backend system
 
 
 
-![Home Page](images/homepage.png)
-![Popular Categories](images/categories.png)
+**Popular Catagories**
+
+
+![Popular Categories]([images/categories.png](https://github.com/MahparaEhsan37/Recipe-Sharing-Webiste/blob/07ccfbfeb3f3d1ba96ec8f4baf0f51df0c42f1b3/recipeSharing2.jpeg))
+
+**Detailed Recipie Page**
+
 ![About Recipe Website](images/about.png)
 ![Detail Recipe](images/detail.png)
 ![Food Website](images/food.png)
