@@ -51,31 +51,33 @@ Users can reach out with suggestions, feedback, or inquiries through a simple an
 ## 🔐 **Admin Login**
 Admins can securely log in to access backend features and manage recipes through an authentication system.  
 
+![Admin_login](https://github.com/MahparaEhsan37/Recipe-Sharing-Webiste/blob/8f091be1f629af71b6aea700b93a17fbb19a9b0c/admin_login.jpeg)
+
 ---
 
 ## 📊 **Admin Dashboard**
 The **Admin Dashboard** provides an overview of all recipes, users, and activity on the platform. Admins can monitor and manage all content efficiently.  
+
+![Admin Dashboard](https://github.com/MahparaEhsan37/Recipe-Sharing-Webiste/blob/8f091be1f629af71b6aea700b93a17fbb19a9b0c/admin_dashboard.jpeg)
 
 ---
 
 ## ➕ **Add Recipe**
 Admins can add new recipes by entering details such as the recipe title, ingredients, instructions, and images.  
 
----
-
-## 👀 **View Recipe**
-This section allows admins to view all recipes available on the website, with options to edit or delete them.  
+![Contact Section](https://github.com/MahparaEhsan37/Recipe-Sharing-Webiste/blob/8f091be1f629af71b6aea700b93a17fbb19a9b0c/add_recipe.jpeg)
 
 ---
 
-## ✏️ **Edit Recipe**
-Admins can update existing recipes to modify ingredients, steps, or images — keeping content fresh and accurate.  
+## 👀 **View, Edit or Delete Recipe**
+This section allows admins to view, edit or delete recipes available on the website, with options to edit or delete them.  
+
+![View Edit Delete](https://github.com/MahparaEhsan37/Recipe-Sharing-Webiste/blob/8f091be1f629af71b6aea700b93a17fbb19a9b0c/edit_delete_recipe.jpeg)
 
 ---
+
 
 ## 🍲 **Food Website Overview**
 An engaging platform that connects food lovers to share, learn, and enjoy cooking through a clean, interactive interface.  
-
-![Food Website](images/food.png)
 
 ---
