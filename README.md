@@ -11,6 +11,10 @@ Explore popular categories of dishes
 Learn more about the website and its purpose
 
 Add, edit, or delete recipes through the backend system
+
+**Home Page**
+
+
 ![Home Page](https://github.com/MahparaEhsan37/Recipe-Sharing-Webiste/raw/5c223c4e6f60b29260f4c07ff3d6f79e4123e76c/recipeSharing1.jpeg)
 
 
