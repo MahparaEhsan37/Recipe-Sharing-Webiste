@@ -48,6 +48,12 @@ Users can reach out with suggestions, feedback, or inquiries through a simple an
 
 ---
 
+##  **Footer**  
+
+![Home Page](https://github.com/MahparaEhsan37/Recipe-Sharing-Webiste/blob/3dc1f96fe3c110b7beb6f47dd3d0906230873443/footer.jpeg)
+
+---
+
 ## 🔐 **Admin Login**
 Admins can securely log in to access backend features and manage recipes through an authentication system.  
 
