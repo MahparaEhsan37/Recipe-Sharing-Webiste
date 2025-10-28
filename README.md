@@ -24,7 +24,7 @@ Add, edit, or delete recipes through the backend system
 **Popular Catagories**
 
 
-![Popular Categories](https://github.com/MahparaEhsan37/Recipe-Sharing-Webiste/blob/07ccfbfeb3f3d1ba96ec8f4baf0f51df0c42f1b3/recipeSharing2.jpeg))
+![Popular Categories](https://github.com/MahparaEhsan37/Recipe-Sharing-Webiste/blob/07ccfbfeb3f3d1ba96ec8f4baf0f51df0c42f1b3/recipeSharing2.jpeg)
 
 **Detailed Recipie Page**
 
